@@ -69,7 +69,7 @@ span {
 /* Desktop*/
 @media (min-width: 992px) {
  
-    .col-lg-4 {
+      .col-lg-4 {
       width: 33.33%;
       float: left;
       }
@@ -81,7 +81,7 @@ span {
       width: 50%;
       float: left;
     }
-    .col-md-12 {
+      .col-md-12 {
       width: 100%;
       float: left;
     }
@@ -89,8 +89,9 @@ span {
   /*Phone*/
   @media (max-width: 767px)  {
     
-    .col-sx-12 {
-        float: left;
+     .col-sx-12 {
      width: 100%;
+     float: left;
+
     }
   }
