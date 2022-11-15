@@ -10,28 +10,18 @@ nav {
   background-color: white;
 }
 
-
-
 div a:hover {
   color: rgb(0, 164, 252);
 }
 
 h1 {
-  margin: 20px;
-  color: white;
-  background-color: black;
-  padding: 30 px;
-  text-transform: capitalize;
-  text-align: center;
+  margin: 20px; color: white; background-color: black; padding: 30 px; text-transform: capitalize; text-align: center;
 
 }
 
 p {
-  margin: 10px;
-  color: white;
-  text-align: center;
+  color: white; text-align: center;
 }
-
 
 
 /**
