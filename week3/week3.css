@@ -7,10 +7,12 @@ body {
 
 /**header**/
 nav {
-  background-color: white;
+  background-color: black;
 }
 
-
+div > a {
+  color: white;
+}
 
 div a:hover {
   color: rgb(0, 164, 252);
