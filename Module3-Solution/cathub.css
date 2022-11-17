@@ -34,7 +34,11 @@ body {
     text-align: center;
   }
   
-  p {
+  h3 {
+    text-align: center;
+  }
+
+  .section {
     color: black;
     text-align: left;
     clear: right;
@@ -42,6 +46,7 @@ body {
     margin: 20px;
     background-color: gray;
   }
+  
   
   nav {
     position: fixed;
